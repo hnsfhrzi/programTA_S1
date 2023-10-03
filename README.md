@@ -15,6 +15,9 @@ There are 12 Model in Total. The name are:
  - SWINV2_CP_1
  - SWINV2_CP_2
 
-If you want to use the model, you have to move the model from "program" folder to "model" folder inside "program" folder.
+If you want to use the model, you need to:
+1. Make new folder inside "program" folder and name it "model"
+2. Move the 12 model to "model" folder
+3. Program ready to use
 
 So from "program"  -> "program/model"
